@@ -1,7 +1,6 @@
 # Event-Finder-Website-and-IOS-app
 Event Finder streamlines discovery via the Ticketmaster API. With a sleek website and iOS app, users can filter events by keywords/categories. Built using Angular, Node.js, Flask, and SwiftUI, it offers a seamless experience.
 
-# Event Finder - Location-Based Event Discovery Platform
 
 Event Finder is a comprehensive platform designed to help users discover events near them. With a responsive website and an accompanying iOS app built using SwiftUI, it provides a seamless experience across devices. The platform utilizes the Ticketmaster API to fetch event data, and is built using a stack of Angular, Node.js, Flask, and MongoDB, and is deployed on Google Cloud Platform (GCP).
 
@@ -14,5 +13,5 @@ Event Finder is a comprehensive platform designed to help users discover events 
   
 ## Quick Links
 
-- 🌐 [Website](https://ksyalnode.wm.r.appspot.com/search)
+- 🌐 [Website](https://ksyalnode.wm.r.appspot.com/)
 - 🎥 [Demo Video IOS app](https://youtu.be/H1fG3DwO4MQ)
